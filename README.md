@@ -9,7 +9,7 @@ Chinese-fantasy character image.
 
 - Idle breathing and blinking
 - Running right and left
-- Waving
+- A compact ballet spin when the pointer hovers over her
 - Jumping
 - Failed or blocked reaction
 - Waiting for input
