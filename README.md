@@ -13,7 +13,7 @@ Chinese-fantasy character image.
 - Jumping
 - Failed or blocked reaction
 - Waiting for input
-- Working
+- Thinking while eating a roasted chicken drumstick
 - Reviewing
 
 Individual animation previews are available in [`previews/`](previews/).
