@@ -7,7 +7,7 @@ Chinese-fantasy character image.
 
 ## Animations
 
-- Idle breathing and blinking
+- Idle loop with a compact ballet spin
 - Running right and left
 - A compact ballet spin when the pointer hovers over her
 - Jumping
