@@ -7,9 +7,9 @@ Chinese-fantasy character image.
 
 ## Animations
 
-- Idle loop with a compact ballet spin
+- Front-facing playful backward-step idle loop
 - Running right and left
-- A compact ballet spin when the pointer hovers over her
+- Compact ballet pose sequence in the waving state
 - Jumping
 - Failed or blocked reaction
 - Waiting for input
