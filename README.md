@@ -1,9 +1,9 @@
-# Yunji Codex Pet
+# 七月-codex-pet
 
-Yunji is a custom animated desktop pet for Codex, adapted from an original
+七月-codex-pet is a custom animated desktop pet for Codex, adapted from an original
 Chinese-fantasy character image.
 
-![Yunji animation contact sheet](contact-sheet.png)
+![七月-codex-pet animation contact sheet](contact-sheet.png)
 
 ## Animations
 
